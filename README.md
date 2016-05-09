@@ -7,7 +7,7 @@ php-detectLang works on php 5.0 or higher & mysql environment. It uses mysqli an
 ## Installation
 First, you should make own database for php-detectLang, and write information of db connect into conf/db.ini file.
 ```[db]
-host = "localhost"
+host = "Your db host, usually localhost"
 id = "Your db username"
 pw = "Your db password"
 db = "Your db name"
